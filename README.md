@@ -1,4 +1,4 @@
-### Olá! Eu sou Marcelo Claro Lopes 👋
+### Olá! Eu sou Marcelo Lopes 👋
 
 - 🔭 Hoje trabalho com front-end e back-end
 - 🌱 Estudando ReactJS, ReactNativeJS, NodeJS, Kotlin
